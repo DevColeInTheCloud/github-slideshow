@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+While you're here follow me on Instagram at ColeInTheCloud!
 Use the left arrow to go back!
